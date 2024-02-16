@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: 新着記事
+ * Template Name: テンプレートページ
 **/
 
 get_header(); ?>
