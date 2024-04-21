@@ -6,7 +6,7 @@
       <p class="sub_message mb-5">あなたの<span class="color-main">挑戦</span>を応援します。</p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-main bg1"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-main bg1"></div>
   <section>
     <div class="container d-flex align-items-center">
       <div class="row">
@@ -44,7 +44,7 @@
       </div>
     </div>
   </section>
-    <div data-aos="fade-left" data-aos-duration="1500" class="bg-right bg5"></div>
+    <div data-aos="fade-up" data-aos-duration="1500" class="bg-right bg5"></div>
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>WORKS</h2>
@@ -101,10 +101,10 @@
         </a>
       <?php endwhile; ?>
       <?php endif; ?>
-      <p class="view-more text-center w-50"><a class="color-white" href="<?php echo home_url(); ?>/blog">さらに記事を読む</a></p>
+      <p class="view-more text-center w-75"><a class="color-white" href="<?php echo home_url(); ?>/blog">さらに記事を読む</a></p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-right bg4"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-right bg4"></div>
   <section>
     <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>ACCESS</h2>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7624232164685!2d139.6935985765716!3d35.65822457259459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ca9ff584c57%3A0xf4cf3b320fde92ec!2z5pel5pys44CB44CSMTUwLTAwNDMg5p2x5Lqs6YO95riL6LC35Yy66YGT546E5Z2C77yS5LiB55uu77yR77yV4oiS77yRIOODjuOCoumBk-eOhOWdgg!5e0!3m2!1sja!2sus!4v1712032414671!5m2!1sja!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

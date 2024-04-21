@@ -8,7 +8,7 @@ get_header(); ?>
       <p class="sub_message mb-5">ウェブマーケティングに関するみなさまの疑問にお答えいたします。</p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-main bg-contact"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-main bg-contact"></div>
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container w-100 w-sm-50">
       <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>FORM</h2>

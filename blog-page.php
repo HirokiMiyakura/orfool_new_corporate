@@ -8,7 +8,7 @@ get_header(); ?>
       <p class="sub_message mb-5">ウェブマーケティングに関するさまざまな情報をお届けします。</p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-main bg-blog"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-main bg-blog"></div>
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>ARTICLES</h2>

@@ -8,7 +8,7 @@ get_header(); ?>
       <p class="sub_message mb-5">我々について。</p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-main about-bg"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-main about-bg"></div>
   <section>
     <div class="container d-flex align-items-top">
       <div class="row">
@@ -61,7 +61,7 @@ get_header(); ?>
       </div>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-right bg2"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-right bg2"></div>
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title position-relative"><span class="asta position-absolute">*</span>COMPANY<br>INFORMATION</h2>

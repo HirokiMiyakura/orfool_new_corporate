@@ -6,7 +6,7 @@
       <h2 class="single-title lh-lg ex-bold mt-3"><?php the_title(); ?></h2>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="single-bg">
+  <div data-aos="fade-up" data-aos-duration="1500" class="single-bg">
     <?php echo the_post_thumbnail(); ?>
   </div>
   <section>

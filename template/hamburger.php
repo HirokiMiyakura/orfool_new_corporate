@@ -16,20 +16,17 @@
     <li class="nav_item"><a href="<?php echo home_url(); ?>/service">SERVICE</a></li>
     <li class="nav_item"><a href="<?php echo home_url(); ?>/blog">BLOG/COLUMN</a></li>
     <li class="nav_item"><a href="<?php echo home_url(); ?>/contact">CONTACT</a></li>
-    <li class="nav_item"><a href="<?php echo home_url(); ?>https://twitter.com/Orfool">Twitter</a></li>
+    <!-- <li class="nav_item"><a href="<?php echo home_url(); ?>https://twitter.com/Orfool">Twitter</a></li>
     <li class="nav_item"><a href="<?php echo home_url(); ?>https://www.facebook.com/profile.php?id=100063121844470">Facebook</a></li>
-    <li class="nav_item"><a href="<?php echo home_url(); ?>">Instagram</a></li>
+    <li class="nav_item"><a href="<?php echo home_url(); ?>">Instagram</a></li> -->
   </ul>
 </nav>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  // ナビゲーションメニュー内の全リンクを取得
   var links = document.querySelectorAll('.nav_item a');
-  // 各リンクに対してクリックイベントリスナーを設定
   links.forEach(function(link) {
     link.addEventListener('click', function() {
-        // チェックボックスのチェックを外す
-        document.getElementById('drawer_input').checked = false;
+      document.getElementById('drawer_input').checked = false;
     });
   });
 });

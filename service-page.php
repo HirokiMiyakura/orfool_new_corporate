@@ -8,7 +8,7 @@ get_header(); ?>
       <p class="sub_message mb-5">変革を導くウェブマーケティング</p>
     </div>
   </section>
-  <div data-aos="fade-left" data-aos-duration="1500" class="bg-main bg-service"></div>
+  <div data-aos="fade-up" data-aos-duration="1500" class="bg-main bg-service"></div>
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title position-relative"><span class="asta position-absolute">*</span>CREATIVE</h2>
