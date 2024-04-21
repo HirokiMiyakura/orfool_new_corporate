@@ -13,9 +13,11 @@ get_header(); ?>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>ARTICLES</h2>
       <?php
+        $paged = get_query_var('paged')? get_query_var('paged') : 1;
         $args = array(
           'post_type' => 'post',
-          'posts_per_page' => 12,
+          'posts_per_page' => 10,
+          'paged' => $paged,
         );
         $the_query = new WP_Query($args);
       ?>
@@ -35,7 +37,13 @@ get_header(); ?>
         <?php endwhile; ?>
       <?php else: ?>
         <p>表示する記事がありません。</p>
-      <?php endif; wp_reset_postdata(); ?>
+      <?php endif; ?>
+      <?php
+        if(function_exists('wp_pagenavi')):
+          wp_pagenavi(array('query'=>$the_query));
+        endif;
+      ?>
+      <?php wp_reset_postdata(); ?>
     </div>
   </section>
 </main>

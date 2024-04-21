@@ -14,7 +14,14 @@
           <li><a class="fw-bold" href="<?php echo home_url(); ?>/contact">CONTACT</a></li>
         </ul>
       </div>
-      <div class="col-12 col-sm-4"></div>
+      <div class="sns col-12 col-sm-4">
+        <ul class="footer-menu list-unstyled">
+          <!-- <li class="mb-3"><a class="fw-bold" href="<?php echo home_url(); ?>">HOME</a></li>
+          <li class="mb-3"><a class="fw-bold" href="<?php echo home_url(); ?>/about">ABOUT</a></li> -->
+          <li class="mb-3"><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt=""></a></li>
+          <li class="mb-3"><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt=""></a></li>
+        </ul>
+      </div>
     </div>
   </div>
   </section>

@@ -1,0 +1,78 @@
+div.wp-pagenavi {
+	clear: both;
+	text-align: center;
+	margin: 10vh 0 0;
+}
+
+/* 各リンクのCSS */
+
+div.wp-pagenavi a {
+	border: 1px solid #61ce70;
+	color: #61ce70;
+	padding: 8px 8px;
+	margin: 0 4px;
+	text-decoration: none;
+	background: #fff;
+	border-radius: 3px;
+	-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	font-size: 1.5rem;
+	@media screen and (max-width: 767px) {
+		font-size: 1.3rem;
+	}
+	@media screen and (max-width: 374px) {
+		padding: 5px;
+		margin: 0 3px;
+		font-size: 1rem;
+	}
+}
+
+/* 各リンクのCSS(マウスオーバー時) */
+
+div.wp-pagenavi a:hover {
+	background: #61ce70;
+	border: 1px solid #61ce70;
+	color: #fff;
+}
+
+/* 総ページ数のCSS */
+
+div.wp-pagenavi span.pages {
+	border: 1px solid #61ce70;
+	color: #61ce70;
+	padding: 8px 8px;
+	margin: 0 4px;
+	background: #fff;
+	border-radius: 3px;
+	-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	font-size: 1.5rem;
+	@media screen and (max-width: 767px) {
+		display: none;
+	}
+}
+
+/* 現在のページのCSS */
+div.wp-pagenavi span.current {
+	border: 1px solid #61ce70;
+	color: #fff;
+	padding: 8px 8px;
+	margin: 0 4px;
+	background: #61ce70;
+	border-radius: 3px;
+	-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	font-size: 1.5rem;
+	@media screen and (max-width: 767px) {
+		font-size: 1.3rem;
+	}
+	@media screen and (max-width: 374px) {
+		padding: 5px;
+		margin: 0 3px;
+		font-size: 1rem;
+	}
+}
+
+div.wp-pagenavi span.extend {
+	display: none;
+}

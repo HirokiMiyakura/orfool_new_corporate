@@ -85,7 +85,7 @@
   <section>
     <div data-aos="fade-up" data-aos-duration="1500" class="container">
       <h2 class="title text-center position-relative"><span class="asta position-absolute">*</span>BLOG/COLUMNS</h2>
-      <?php query_posts('posts_per_page=2'); ?>
+      <?php query_posts('posts_per_page=5'); ?>
         <?php if (have_posts()) : ?>
         <?php while (have_posts()) : the_post(); ?>
         <a class="post" href="<?php the_permalink(); ?>">
