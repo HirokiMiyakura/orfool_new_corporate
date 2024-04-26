@@ -13,14 +13,14 @@
         <div data-aos="fade-up" data-aos-duration="1500"  class="col-12 col-sm-7">
           <h2 class="title position-relative"><span class="asta position-absolute">*</span>ABOUT</h2>
           <h3 class="sub_title fw-bold mb-4">私たちの技術、あなたの未来</h3>
-          <img class="d-block d-sm-none rounded mb-4" src="<?php echo get_template_directory_uri(); ?>/assets/img/aboutus_sp.png" alt="">
+          <img class="d-block d-sm-none rounded mb-4" src="<?php echo get_template_directory_uri(); ?>/assets/img/aboutus_sp.png" alt="ABOUTセクションの写真">
           <p class="lh-lg fw-light mb-3 mb-sm-5">技術の進化は絶えません。<br>
   私たちは、最新のウェブマーケティング戦略とホームページ制作技術を駆使して、<br>あなたのビジネスを次のレベルへと押し上げます。<br>
   私たちの知識と経験が、あなたのビジョンを具現化します。</p>
           <p class="link fs-5"><a class="color-main" href="<?php echo home_url(); ?>/about">詳しくはこちら</a></p>
         </div>
         <div data-aos="fade-down" data-aos-duration="1500" class="col-12 col-sm-5 d-none d-sm-block ps-5">
-          <img class="d-none d-sm-block rounded" src="<?php echo get_template_directory_uri(); ?>/assets/img/aboutus.png" alt="">
+          <img class="d-none d-sm-block rounded" src="<?php echo get_template_directory_uri(); ?>/assets/img/aboutus.png" alt="ABOUTセクションの写真">
         </div>
       </div>
     </div>
@@ -32,14 +32,14 @@
         <div data-aos="fade-up" data-aos-duration="1500" class="col-12 col-sm-7">
           <h2 class="title position-relative"><span class="asta position-absolute">*</span>SERVICE</h2>
           <h3 class="sub_title fw-bold mb-4">変革を導くウェブマーケティング</h3>
-          <img class="d-block d-sm-none rounded mb-4" src="<?php echo get_template_directory_uri(); ?>/assets/img/service_sp.png" alt="">
+          <img class="d-block d-sm-none rounded mb-4" src="<?php echo get_template_directory_uri(); ?>/assets/img/service_sp.png" alt="SERVICEセクションの写真">
           <p class="lh-lg fw-light mb-3 mb-sm-5">今日のデジタル時代において、革新的なウェブマーケティングは、企業が成長し続けるための鍵です。<br>
   私たちは、目標を達成するためのカスタマイズされた戦略を提供します。<br>
   SEO、SNSマーケティング、コンテンツマーケティング、PPC広告など、最新の技術と手法を駆使して目標達成へと導きます。</p>
           <p class="link fs-5"><a class="color-main" href="<?php echo home_url(); ?>/service">詳しくはこちら</a></p>
         </div>
         <div data-aos="fade-down" data-aos-duration="1500" class="col-12 col-sm-5 d-none d-sm-block ps-5">
-          <img class="d-none d-sm-block rounded" src="<?php echo get_template_directory_uri(); ?>/assets/img/service.png" alt="">
+          <img class="d-none d-sm-block rounded" src="<?php echo get_template_directory_uri(); ?>/assets/img/service.png" alt="SERVICEセクションの写真">
         </div>
       </div>
     </div>
@@ -53,20 +53,20 @@
         <!-- Additional required wrapper -->
         <div class="swiper-wrapper">
           <!-- Slides -->
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/1.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/2.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/3.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/4.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/5.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/6.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/7.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/8.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/9.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/10.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/11.png" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/12.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/13.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/14.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/1.png" alt="東京ミニマム不動産"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/2.png" alt="ソシオフーズ"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/3.png" alt="株式会社みつばコミュニティ"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/4.png" alt="葉隠勇進株式会社"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/5.png" alt="ソシオークホールディング株式会社"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/6.jpg" alt="シンデレラタイムLP"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/7.jpg" alt="株式会社TOPHILL"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/8.jpg" alt="クリーンラボLP"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/9.png" alt="セレべレム運動教室"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/10.jpg" alt="NEXT株式会社"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/11.png" alt="ソクラテスのたまご"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/12.jpg" alt="シンデレラタイムLP"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/13.jpg" alt="総合調査セブン探偵社"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/14.jpg" alt="KEN WORKS"></div>
           ...
         </div>
         <!-- If we need pagination -->

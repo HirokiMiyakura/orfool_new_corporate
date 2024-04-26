@@ -316,6 +316,15 @@ section {
 	}
 }
 
+.otoku {
+	font-size: 0.5em;
+	color: red;
+	&:after {
+		content: '';
+		white-space: pre;
+	}
+}
+
 @media screen and (max-width: 767px) {
 	.creative-table {
 		font-size: 12px;
@@ -327,6 +336,13 @@ section {
 				padding: 0.75rem;
 				&.big {
 					font-size: 1.5em;
+				}
+				&.otoku {
+					font-size: 0.5em;
+					&:after {
+						content: 'A';
+						white-space: pre;
+					}
 				}
 				img {
 					width: 14px;

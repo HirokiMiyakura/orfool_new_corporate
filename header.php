@@ -10,6 +10,7 @@
 <link href="<?php echo get_template_directory_uri(); ?>/assets/scss/main.css" rel="stylesheet" />
 <link href="<?php echo get_template_directory_uri(); ?>/assets/scss/hamburger.css" rel="stylesheet" />
 <link href="<?php echo get_template_directory_uri(); ?>/assets/scss/wp_navi.css" rel="stylesheet" />
+<link href="<?php echo get_template_directory_uri(); ?>/assets/scss/plugin.css" rel="stylesheet" />
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,6 +23,15 @@
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <?php wp_head(); ?>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C355GLS21T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C355GLS21T');
+</script>
 <body>
 <!-- <header data-aos="fade-down" data-aos-duration="1500"> -->
 <header>
@@ -40,9 +50,9 @@
     </div>
     <div class="sns d-none d-sm-block">
       <ul class="list-unstyled d-flex gap-3">
-        <li><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt=""></a></li>
-        <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt=""></a></li>
-        <!-- <li><a target="_blank" href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.png" alt=""></a></li> -->
+        <li><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt="twitterアイコン"></a></li>
+        <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt="facebookアイコン"></a></li>
+        <!-- <li><a target="_blank" href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.png" alt="instagramアイコン"></a></li> -->
       </ul>
     </div>
     <div class="d-block d-sm-none">

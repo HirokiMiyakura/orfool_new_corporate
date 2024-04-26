@@ -3,7 +3,7 @@
     <div class="container">
     <div class="row">
       <div class="col-12 col-sm-4 mb-4 mb-sm-0">
-        <h3>ORFOOL INC.</h3>
+        <h3 class="ex-bold">ORFOOL INC.</h3>
       </div>
       <div class="col-12 col-sm-4 mb-4 mb-sm-0">
         <ul class="footer-menu list-unstyled">
@@ -18,8 +18,8 @@
         <ul class="footer-menu list-unstyled">
           <!-- <li class="mb-3"><a class="fw-bold" href="<?php echo home_url(); ?>">HOME</a></li>
           <li class="mb-3"><a class="fw-bold" href="<?php echo home_url(); ?>/about">ABOUT</a></li> -->
-          <li class="mb-3"><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt=""></a></li>
-          <li class="mb-3"><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt=""></a></li>
+          <li class="mb-3"><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt="twitterアイコン"></a></li>
+          <li class="mb-3"><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt="facebookアイコン"></a></li>
         </ul>
       </div>
     </div>

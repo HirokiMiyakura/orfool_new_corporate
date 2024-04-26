@@ -274,6 +274,15 @@ section {
   width: 21px;
 }
 
+.otoku {
+  font-size: 0.5em;
+  color: red;
+}
+.otoku:after {
+  content: "";
+  white-space: pre;
+}
+
 @media screen and (max-width: 767px) {
   .creative-table {
     font-size: 12px;
@@ -286,6 +295,13 @@ section {
   }
   .creative-table tr td.big {
     font-size: 1.5em;
+  }
+  .creative-table tr td.otoku {
+    font-size: 0.5em;
+  }
+  .creative-table tr td.otoku:after {
+    content: "A";
+    white-space: pre;
   }
   .creative-table tr td img {
     width: 14px;

@@ -35,7 +35,7 @@ get_header(); ?>
     <div data-aos="fade-up" data-aos-duration="1500" class="container d-flex align-items-center gap-5">
       <div class="row">
         <div class="col-12 col-sm-4 sm-shadow p-4">
-          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member1.jpg" alt=""></p>
+          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member1.jpg" alt="宮倉洋樹の写真"></p>
           <h4>宮倉洋樹</h4>
           <p class="text-light-emphasis">代表取締役</p>
           <p class="fw-light lh-lg">早稲田大学政治経済学部卒。<br>
@@ -44,13 +44,13 @@ get_header(); ?>
   今年から営業も頑張ります。<br></p>
         </div>
         <div class="col-12 col-sm-4 sm-shadow p-4">
-          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member2.png" alt=""></p>
+          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member2.png" alt="新井崇寛の写真"></p>
           <h4>新井崇寛</h4>
           <p class="text-light-emphasis">取締役</p>
           <p class="fw-light lh-lg">法政大学法学部卒。サッカー全国大会優勝経験者。柔軟かつ効果的なディレクションを得意とするWebディレクター。いつも最短コースを見つけて進行しますが、時にはあえて一緒に遠回りしてくれるよな、お客さまに寄り添って仕事をする人。ちょっと老け顔だけど、発想や知識は常にフレッシュで頼りになります。</p>
         </div>
         <div class="col-12 col-sm-4 sm-shadow p-4">
-          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member3.jpg" alt=""></p>
+          <p class="text-center w-25 pb-2 mx-auto"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/member3.jpg" alt="齋藤大地の写真"></p>
           <h4>齋藤大地</h4>
           <p class="text-light-emphasis">取締役</p>
           <p class="fw-light lh-lg">中央大学法学部卒。<br>

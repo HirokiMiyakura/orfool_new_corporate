@@ -49,51 +49,51 @@ get_header(); ?>
           </tr>
           <tr>
             <td>WordPress<br class="sp">設置・更新</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>お問い合わせ<br class="sp">窓口設置</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>レスポンシブ<br class="sp">デザイン</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>サーバー利用料</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
             <td>別途費用発生</td>
           </tr>
           <tr>
             <td>ドメイン費用</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
             <td>別途費用発生</td>
           </tr>
           <tr>
             <td>SSL対応</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
             <td>別途費用発生</td>
           </tr>
           <tr>
             <td>ライティング代行</td>
             <td>別途費用発生</td>
             <td>別途費用発生</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
             <td>別途費用発生</td>
           </tr>
           <tr>
@@ -126,80 +126,80 @@ get_header(); ?>
           </tr>
           <tr>
             <td>WordPress<br class="sp">更新</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>メールサポート</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>サーバー・<br class="sp">ドメイン費用</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
           </tr>
           <tr>
             <td>ページの修正</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>電話サポート</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>SEO対策</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>ページの追加</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>リスティング広告</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""><br>※1 ※2</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"><br>※1 ※2</td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>オフィス訪問</td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt=""></td>
-            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt=""></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _circle check_.png" alt="チェックマークの画像"></td>
+            <td><img src="<?php echo get_template_directory_uri(); ?>/assets/img/icon _x letter_.png" alt="バツマーク"></td>
           </tr>
           <tr>
             <td>月額費用</td>
-            <td>8,800</td>
-            <td>15,000</td>
+            <td>10,000</td>
+            <td>20,000</td>
             <td>50,000</td>
-            <td>7,800</td>
+            <td>8,800</td>
           </tr>
           <tr>
             <td>24ヶ月契約</td>
-            <td class="big">190,080</td>
-            <td class="big">324,000</td>
-            <td class="big">1,080,000</td>
-            <td class="big">187,200</td>
+            <td class="big"><span class="otoku">10%OFF</span><br>220,000</td>
+            <td class="big"><span class="otoku">10%OFF</span><br>360,000</td>
+            <td class="big"><span class="otoku">10%OFF</span><br>1,100,000</td>
+            <td class="">211,200</td>
           </tr>
         </table>
       </div>
