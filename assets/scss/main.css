@@ -307,6 +307,10 @@ section {
     width: 14px;
   }
 }
+footer {
+  padding-bottom: 10vh;
+}
+
 .wpcf7 label {
   width: 100%;
   margin-bottom: 7px;
@@ -352,4 +356,69 @@ section {
 
 .single-content {
   line-height: 2;
+}
+
+.fixed-cv {
+  bottom: 45vh;
+  bottom: 0;
+  right: 0;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+.fixed-cv .mini {
+  font-size: 0.7em;
+}
+.fixed-cv .tel {
+  background: #f26522;
+}
+.fixed-cv .tel span img {
+  width: 35px;
+  margin-right: 14px;
+}
+.fixed-cv .mail {
+  background: #16346a;
+}
+.fixed-cv .mail span img {
+  width: 35px;
+  margin-right: 14px;
+}
+.fixed-cv .line {
+  background: #61ce70;
+}
+.fixed-cv .line span img {
+  width: 35px;
+  margin-right: 14px;
+}
+
+@media screen and (max-width: 767px) {
+  .fixed-cv {
+    font-size: 16px;
+    width: 100%;
+    padding-top: 5vh;
+    line-height: 1.35;
+  }
+  .fixed-cv .sp-mini {
+    font-size: 0.7em;
+  }
+  .fixed-cv .tel {
+    width: 33.3333333333%;
+  }
+  .fixed-cv .tel span img {
+    width: 35px;
+    margin-right: 14px;
+  }
+  .fixed-cv .mail {
+    width: 33.3333333333%;
+  }
+  .fixed-cv .mail span img {
+    width: 35px;
+    margin-right: 14px;
+  }
+  .fixed-cv .line {
+    width: 33.3333333333%;
+  }
+  .fixed-cv .line span img {
+    width: 35px;
+    margin-right: 14px;
+  }
 }/*# sourceMappingURL=main.css.map */

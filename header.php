@@ -52,6 +52,7 @@
       <ul class="list-unstyled d-flex gap-3">
         <li><a target="_blank" href="https://twitter.com/Orfool"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/twitter.png" alt="twitterアイコン"></a></li>
         <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100063121844470"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/facebook.png" alt="facebookアイコン"></a></li>
+        <li><a target="_blank" href="https://lin.ee/vzDu2Zg"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/LINE_APP.png" alt="LINEアイコン"></a></li>
         <!-- <li><a target="_blank" href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/img/instagram.png" alt="instagramアイコン"></a></li> -->
       </ul>
     </div>

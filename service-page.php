@@ -99,8 +99,8 @@ get_header(); ?>
           <tr>
             <td>初期費用</td>
             <td class="big">200,000</td>
-            <td class="big">300,000</td>
-            <td class="big">800,000</td>
+            <td class="big">400,000</td>
+            <td class="big">800,000~</td>
             <td class="big">200,000</td>
           </tr>
         </table>
