@@ -421,4 +421,7 @@ footer {
     width: 35px;
     margin-right: 14px;
   }
+}
+.grecaptcha-badge {
+  bottom: 12vh !important;
 }/*# sourceMappingURL=main.css.map */

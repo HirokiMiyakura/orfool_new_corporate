@@ -53,6 +53,8 @@
         <!-- Additional required wrapper -->
         <div class="swiper-wrapper">
           <!-- Slides -->
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/16.png" alt="緑の達人"></div>
+          <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/15.png" alt="グリーンマネイジメント"></div>
           <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/1.png" alt="東京ミニマム不動産"></div>
           <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/2.png" alt="ソシオフーズ"></div>
           <div class="swiper-slide"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/works/3.png" alt="株式会社みつばコミュニティ"></div>

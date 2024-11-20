@@ -16,8 +16,8 @@
       </div>
       <div class="sns col-12 col-sm-3">
         <ul class="footer-menu list-unstyled">
-          <li class="mb-3"><a target="_blank" href="<?php echo home_url(); ?>/eigyo">営業代行募集中</a></li>
-          <li class="mb-3"><a target="_blank" href="<?php echo home_url(); ?>/designer">デザイナー募集中</a></li>
+          <!-- <li class="mb-3"><a target="_blank" href="<?php echo home_url(); ?>/eigyo">営業代行募集中</a></li> -->
+          <!-- <li class="mb-3"><a target="_blank" href="<?php echo home_url(); ?>/designer">デザイナー募集中</a></li> -->
         </ul>
       </div>
       <div class="sns col-12 col-sm-3">
